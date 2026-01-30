@@ -31,4 +31,5 @@ To assess the effectiveness of the machine learning model implementation, severa
 Throughout the program, the workflow follows a standard machine learning pipeline: data preparation, feature extraction, model training, prediction, and evaluation. This structured approach highlights how machine learning models can be implemented to solve classification problems such as spam email detection in a systematic and reproducible manner.
 
 *OUTPUT*:
+
 <img width="306" height="205" alt="Image" src="https://github.com/user-attachments/assets/d015c121-575b-4f0c-96b2-cf3a4c94b8f7" />
